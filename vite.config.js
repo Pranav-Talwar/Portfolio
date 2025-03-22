@@ -1,18 +1,8 @@
-
-  import { defineConfig } from 'vite'
+import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
 
+// For personal/organization site (pranav-talwar.github.io):
 export default defineConfig({
-  plugins: [react() , tailwindcss()],
+  plugins: [react()],
   base: '/',
-  build: {
-    outDir: 'dist',
-    assetsDir: 'assets',
-    emptyOutDir: true
-  },
-  preview: {
-    port: 4173,
-    strictPort: true
-  }
 })
