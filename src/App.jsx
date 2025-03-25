@@ -380,7 +380,7 @@ export default function App() {
           {/* Right: Image */}
           <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center">
             <motion.img 
-              src="https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2Fer.jpg?alt=media&token=c872070f-ff9f-4d6c-98b5-51df80360c63" 
+              src="https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/posts%2F113355857975336801815%2F0V43Wf570zds5xZeq7g6%2Fme.jpg?alt=media&token=b3bcc6d6-9d03-4193-9171-f0d5be290040" 
               alt="Hero"
               className="w-full max-w-md rounded-full shadow-lg object-cover"
               initial={{ opacity: 0, x: 40 }}
