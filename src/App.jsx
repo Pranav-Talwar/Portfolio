@@ -335,7 +335,7 @@ export default function App() {
             <motion.div
               className="text-xl text-neutral-400 mt-4"
             >
-              <div className="font-bold  px-1">   Full-Stack Developer | Student at Red Deer Polytechnic</div> <br/>  <div className=" px-1">    I build end-to-end web solutions that are scalable, secure, and user-centric.</div>
+              <div className="font-bold  px-1">   Full-Stack Development | Data Analysis<br/>Computer Science Student @ Red Deer Polytechnic</div> <br/>  <div className=" px-1">    I build end-to-end web solutions that are scalable, secure, and user-centric.</div>
             </motion.div>
             <motion.div 
               className="flex justify-center md:justify-start gap-4 mt-8"
