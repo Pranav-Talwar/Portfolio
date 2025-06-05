@@ -93,8 +93,34 @@ const projects = [
     
     ],
     link: "https://github.com/Pranav-Talwar/BookTrackingAndReview"
-  },
-  // New projects
+  },{
+  title: "Mr.ReadME",
+  subtitle: "Markdown Editor for GitHub",
+  description: "A markdown editor built with React that lets users create and convert ReadME files using drag-and-drop icons, pre-built templates, and custom formatting. Features include live Markdown conversion, user authentication, and responsive UI.",
+  tech: ['React.js', 'Node.js', 'MongoDB' , 'TipTap', 'DnD-Kit'],
+  iconColor: "text-yellow-400",
+  images: [
+    "https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2FScreenshot%202025-06-05%20133957.png?alt=media&token=431bee93-1098-43ce-a3f1-0d03c6d00aca"
+  ],
+  link: "https://github.com/Pranav-Talwar/Markdown-Editor"
+},
+
+{
+  title: "Calmy Focus App",
+  subtitle: "Productivity & Wellness Platform",
+  description: "A productivity and wellness platform with sticky notes, Pomodoro timer, drag-and-drop calendar, meditation hub, and habit tracking — built to reduce burnout and boost daily focus in a calming browser-based experience.",
+  tech: ['.NET', 'C#', 'Bootstrap', 'MongoDB'],
+  iconColor: "text-indigo-400",
+  images: [
+    "https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2Fcalmy%2FScreenshot%202025-06-05%20135631.png?alt=media&token=b7b62c0b-357d-4629-a76e-2f710450bb79",
+    "https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2Fcalmy%2FScreenshot%202025-06-05%20135537.png?alt=media&token=4abf20da-9ea0-4833-916f-6f034a923f5a",
+    "https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2Fcalmy%2FScreenshot%202025-06-05%20135550.png?alt=media&token=87292c20-b0de-4d80-932d-43af2fedeada",
+    "https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2Fcalmy%2FScreenshot%202025-06-05%20135600.png?alt=media&token=65e3393b-afb9-4407-ac26-7e5b79417df8"
+  ],
+  link: "https://github.com/Pranav-Talwar/Calmy-Focus-App"
+},
+
+
   {
     title: "NewsJam",
     subtitle: "React News Aggregator",
@@ -120,17 +146,7 @@ const projects = [
     ],
     link: "https://github.com/Pranav-Talwar/Fitness-Companion"
   },
-  {
-    title: "MyNoteApp",
-    subtitle: "Notes Taking Application",
-    description: "A full-stack note-taking app (React/Node.js/MongoDB) with a sticky-note style interface. Create, edit, organize, and delete notes seamlessly in a responsive, clutter-free workspace designed for productivity.",
-    tech: ['Spring Boot', 'React', 'MongoDB' , 'Bootstrap'],
-    iconColor: "text-green-400",
-    images: [
 
-    ],
-    link: "https://github.com/Pranav-Talwar/MyNotesApp"
-  },
   {
     title: "The CookBook",
     subtitle: "Recipe Manager",
