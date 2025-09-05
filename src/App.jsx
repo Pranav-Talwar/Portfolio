@@ -245,7 +245,7 @@ export default function App() {
 
             <motion.div className="text-xl text-neutral-400 mt-4">
               <div className="font-bold px-1">
-                Full-Stack Development | System Design 
+                Full-Stack Developer
 
                 <br />
                 Computer Science Student @ Red Deer Polytechnic
