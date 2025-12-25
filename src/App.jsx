@@ -54,6 +54,23 @@ const skillsBadges = [
 
 const projects = [
   {
+    title: "CoSounds - Adaptive Collective Personalized Soundscapes",
+    subtitle: "NATHacks 2025 | Piloting at UofA Cameron Library in January 2026",
+    description:
+      "Students don't fills out surveys while trying to study. So we made Voting a single tap. One NFC tap to connect, green/red taps to vote, ML builds individual preference profiles while a collective algorithm balances everyone's needs in real-time, creating personalized focus environments in shared spaces.",
+    tech: ['React', 'TypeScript', 'Python', 'Supabase', 'NFC'],
+  },  
+  {
+    title: "Para-Athlete Equipment Testing Platform",
+    subtitle: "Built for CIM-TAC | Capstone",
+    description:
+      "Para-athletes experience 2x the injury rate of able-bodied athletes, partly because equipment is fitted by feel, not data. This platform helps Paralympic coaches test various configurations by combining motion sensor analysis with athlete feedback ratings—replacing subjective fitting with measurable evidence to reduce injuries and optimize performance.",
+    tech: ['React.js', 'TypeScript', 'D3.js', 'Express.js', 'PostgreSQL', 'TanStack Query'],
+    icon: SiReact,
+    iconColor: "text-scn-lime-green",
+    link: "https://github.com/Pranav-Talwar/cim-tac-dashboard"
+},
+  {
     title: "CampusUnify",
     subtitle: "Campus Social Platform",
     description:
@@ -119,24 +136,7 @@ const projects = [
     iconColor: "text-purple-400",
     link: "https://github.com/Pranav-Talwar/Fitness-Companion"
   },
-  {
-    title: "The CookBook",
-    subtitle: "Recipe Manager",
-    description:
-      "A recipe manager with nutritional analysis, search, and filtering. Streamline meal planning in a clean, intuitive interface for effortless recipe organization and discovery.",
-    tech: ['Java', 'Swing'],
-    iconColor: "text-red-400",
-    link: "https://github.com/Pranav-Talwar/CookBook"
-  },
-  {
-    title: "Cafe Kiosk",
-    subtitle: "Cafe Ordering System",
-    description:
-      "Cafe kiosk interface for order management and profile management.",
-    tech: ['C#', 'WPF', 'MS SQL'],
-    iconColor: "text-blue-400",
-    link: "https://github.com/Pranav-Talwar/Cafe-Kiosk"
-  }
+
 ];
 
 // ProjectCard
