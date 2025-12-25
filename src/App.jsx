@@ -57,7 +57,7 @@ const projects = [
     title: "CoSounds",
     subtitle: "NATHacks 2025 | Piloting at UofA Cameron Library in January 2026",
     description:
-      "Students won't fill out surveys while studying, so we made feedback frictionless. One NFC tap connects you to the room's adaptive soundscape. Vote with green/red NFC tags while listening. ML learns your preferences and balances them with everyone else's in real-time, creating collective harmony that improves with each session.",
+      "Students won't fill out surveys while studying, so we made feedback frictionless. One NFC tap connects you to the room's adaptive soundscape. Vote with green/red NFC tags while listening. ML model learns your preferences and balances them with everyone else's in real-time, creating collective harmony that improves with each session.",
     tech: ['React', 'TypeScript', 'Python', 'Supabase', 'NFC'],
   },  
   {
