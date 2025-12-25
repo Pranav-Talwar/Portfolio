@@ -65,7 +65,7 @@ const projects = [
     subtitle: "Built for CIM-TAC | Capstone",
     description:
       "Para-athletes experience 2x the injury rate of able-bodied athletes, partly because equipment is fitted by feel, not data. This platform helps Paralympic coaches test various configurations by combining motion sensor analysis with athlete feedback ratings—replacing subjective fitting with measurable evidence to reduce injuries and optimize performance.",
-    tech: ['React.js', 'TypeScript', 'D3.js', 'Express.js', 'PostgreSQL', 'TanStack Query'],
+    tech: ['React.js', 'TypeScript', 'D3.js', 'Express.js', 'PostgreSQL'],
     link: "https://github.com/Pranav-Talwar/cim-tac-dashboard"
 },
   {
